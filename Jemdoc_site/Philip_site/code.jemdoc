@@ -1,5 +1,0 @@
-# jemdoc: menu{MENU}{code.html}, nofooter
-== Code
-
-- Software for robust estimators with Slope-type Huber losses: [https://github.com/philipthomp/Outlier-robust-regression], 
-Reference: [https://arxiv.org/abs/2012.06750]
